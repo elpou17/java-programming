@@ -1,3 +1,4 @@
 # Java Programming Course
 
-This repo is a supplement to the free Java Programming course on [Test Automation University](https://testautomationu.applitools.com/java-programming-course/). Here is  all of the code done in the course exercises as well as the answers to independent exercises.
+Este repositorio complementa el curso gratuito de Programación Java de [Test Automation University](https://testautomationu.applitools.com/java-programming-course/). 
+Contiene todo el código de los ejercicios del curso, así como las respuestas a los ejercicios independientes.
